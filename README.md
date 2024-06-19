@@ -15,18 +15,18 @@ All branches to search:
 
 #### …or push an existing repository from the command line
 ```
-git remote add origin https://github.com/idfldev/ReactJS-Sources.git
+git remote add origin https://github.com/idfldev/HTML-CSS-Sources.git
 git branch -M master
 git push -u origin master
 ```
 #### …or create a new repository on the command line
 ```
-echo "# ReactJS-Sources" >> README.md
+echo "# HTML-CSS-Sources" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M master
-git remote add origin https://github.com/idfldev/ReactJS-Sources.git
+git remote add origin https://github.com/idfldev/HTML-CSS-Sources.git
 git push -u origin master
 ```
 
